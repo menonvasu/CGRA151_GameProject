@@ -54,7 +54,7 @@ The game is organized into modular classes to enforce separation of concerns and
 1. Clone this repository to your computer:
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/Zombie_Survival_Game.git
-   1. Open the Processing IDE.
-   2. Select File -> Open... and select the main .pde controller file.
-   3. Click the Run button (the Play icon in the top left) to launch the game.
    ```
+2. Open the Processing IDE.
+3. Select File -> Open... and select the main .pde controller file.
+4. Click the Run button (the Play icon in the top left) to launch the game.
